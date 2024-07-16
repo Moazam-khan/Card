@@ -1,0 +1,32 @@
+body{
+    background-color: #00011f;
+    text-align: left;    
+}
+h3{
+color: white;
+}
+.card {
+    
+    position: fixed;
+    margin: auto;
+    inset: 0;
+
+    background-color: rgb(0, 0, 0);
+    
+    height: 460px;
+    width:297px;
+    box-shadow:1px 4px 20px 0px #fffefe;
+    border-radius: 16px;
+color: aliceblue;
+    padding: 1rem;
+}
+img{
+    width: 100%;
+
+    border-radius: 8px;
+}
+.avat{
+    width: 10%;
+    border: 1px solid white; /* Adjust the border width as needed */
+    border-radius: 50%;
+}
